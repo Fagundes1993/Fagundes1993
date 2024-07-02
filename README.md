@@ -1,14 +1,11 @@
 # Matheus Lima
-Minha paixão por Data Analytics me impulsiona a transformar dados em insights estratégicos, impulsionando a tomada de decisão e o sucesso de projetos. Possuo experiência em SQL, Python e Power
-BI, além de uma profunda compreensão de conceitos de Tecnologia da Informação.
+Sou um profissional de Tecnologia da Informação com forte interesse em Data Analytics e dedicado ao aprendizado contínuo.
 
-Essas habilidades me permitem dominar ferramentas e técnicas essenciais para análise e visualização de dados, construção de dashboards e otimização de processos.
+Minha experiência profissional abrange áreas como consultoria de comércio exterior, gerenciamento de chamados e atuação no Corpo de Fuzileiros Navais, desenvolvendo habilidades em resolução de problemas, trabalho em equipe, disciplina e liderança.
 
-Sou um entusiasta do aprendizado contínuo, com um portfólio de certificações em Análise de Dados, Ciência de Dados e Resolução de Problemas, que me permite estar sempre atualizado com as últimas tecnologias e tendências do mercado.
+Atualmente, estou focado em aplicar meu conhecimento em SQL, Python, Power BI e Ciência de Dados para gerar insights estratégicos, otimizar processos e apoiar a tomada de decisões em projetos.
 
-Busco novas oportunidades onde posso aplicar minhas habilidades em Data Analytics para gerar insights valiosos, otimizar processos e impulsionar a tomada de decisão estratégica.
-
-Minha missão é transformar dados brutos em informações acionáveis, contribuindo para a resolução de problemas complexos e o sucesso de projetos.
+Busco oportunidades desafiadoras para transformar dados em informações acionáveis, contribuindo para a resolução de problemas complexos e o sucesso de equipes.
 
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/Fagundes)
