@@ -1,5 +1,5 @@
 # Matheus Lima
-Sou um profissional de Tecnologia da Informação com forte interesse em Data Analytics e dedicado ao aprendizado contínuo.
+Profissional graduado no bacharelado em Tecnologia da Informação com forte interesse em Data Analytics e dedicado ao aprendizado contínuo.
 
 Minha experiência profissional abrange áreas como consultoria de comércio exterior, gerenciamento de chamados e atuação no Corpo de Fuzileiros Navais, desenvolvendo habilidades em resolução de problemas, trabalho em equipe, disciplina e liderança.
 
