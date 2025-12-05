@@ -8,7 +8,6 @@ Atualmente, estou focado em aplicar meu conhecimento em SQL, Python, Power BI e 
 Busco oportunidades desafiadoras para transformar dados em informações acionáveis, contribuindo para a resolução de problemas complexos e o sucesso de equipes.
 
 ## Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/Fagundes)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-fagundes-70510266)
 
